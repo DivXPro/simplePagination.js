@@ -185,3 +185,7 @@ ul.simple-pagination {
 	font-weight: bold;
 	cursor: default;
 }
+
+.page-link {
+	cursor: pointer;
+}
